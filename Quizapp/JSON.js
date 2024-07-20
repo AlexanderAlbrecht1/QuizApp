@@ -1,0 +1,56 @@
+let questions = [
+    {
+        "question":"Wie viele Finger hast du an deinen beiden Händen?",
+        "answer_1":"5",
+        "answer_2":"20",
+        "answer_3":"10",
+        "answer_4":"15",
+        "right_answer":3,
+    },
+    {
+        "question": "Wo geht die Sonne unter?",
+        "answer_1": "Westen",
+        "answer_2": "Osten",
+        "answer_3": "Süden",
+        "answer_4": "Norden",
+        "right_answer": 1,
+    },
+    {
+        "question": "Wie heißen die Kinder von Hunden?",
+        "answer_1": "Larven",
+        "answer_2": "Welpen",
+        "answer_3": "Pfohlen",
+        "answer_4": "Ferkel",
+        "right_answer": 2,
+    },
+    {
+        "question": "Was ergibt 1 + 3 ?",
+        "answer_1": "3",
+        "answer_2": "4",
+        "answer_3": "2",
+        "answer_4": "42",
+        "right_answer": 2,
+    },
+    {
+        "question": "Wie viele Zwerge gibt es im Märchen Schneewittchen?",
+        "answer_1": "3",
+        "answer_2": "7",
+        "answer_3": "13",
+        "answer_4": "9",
+        "right_answer": 2,
+    },{
+        "question": "Wie heißt das Mädchen im Wunderland?",
+        "answer_1": "Ariel",
+        "answer_2": "Amidala",
+        "answer_3": "Jasmin",
+        "answer_4": "Alice",
+        "right_answer": 4,
+    },{
+        "question": "Welche Blume ist die Frühlingsblume?",
+        "answer_1": "Rose",
+        "answer_2": "Sonnenblume",
+        "answer_3": "Schneeglöckchen",
+        "answer_4": "Orchidee",
+        "right_answer": 3,
+    }
+];
